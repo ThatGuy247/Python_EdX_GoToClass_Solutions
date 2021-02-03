@@ -1,4 +1,4 @@
-# Python_EdX_GoToClass_Solution
+# Python_EdX_GoToClass_Solutions
 Solutions to "introduction into python" course
 
 This is my approach on the "introduction to Python" course by Gotoclass.ir,
